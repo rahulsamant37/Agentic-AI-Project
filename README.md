@@ -15,6 +15,8 @@ short_description: Refined langgraphAgenticAI
 
 A stateful agentic AI application built with LangGraph and LangChain that demonstrates the implementation of conversational AI agents with tool integration capabilities.
 
+![image](https://github.com/user-attachments/assets/15877c4e-a876-4d67-bb99-e1fdc109fd24)
+
 ## 🌟 Features
 
 - **Multiple LLM Support**: Currently integrated with Groq LLM models
